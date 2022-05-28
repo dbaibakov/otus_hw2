@@ -42,6 +42,8 @@ models:
             - not_null
         - name: LO_LINENUMBER
           description: ""
+          tests:
+            - not_null
         - name: LO_CUSTKEY
           description: ""
         - name: LO_PARTKEY
