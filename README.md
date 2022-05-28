@@ -1,15 +1,10 @@
-Welcome to your new dbt project!
+# Домашняя работа №2 по курсу OTUS Data Warehouse Analyst
 
-### Using the starter project
+## Q2.1
+![Q2.1](./readme_files/Q2_1.jpg)
 
-Try running the following commands:
-- dbt run
-- dbt test
+## Q3.3
+![Q3.3](./readme_files/Q3_3.jpg)
 
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+## Q4.2
+![Q4.2](./readme_files/Q4_2.jpg)
