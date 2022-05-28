@@ -30,11 +30,15 @@ models:
 
     - name: lineorder
       description: "Order line"
+      tests:
+        - dbt_utils.unique_combination_of_columns:
+            combination_of_columns:
+              - LO_ORDERKEY
+              - LO_LINENUMBER
       columns:
         - name: LO_ORDERKEY
           description: ""
           tests:
-            - unique
             - not_null
         - name: LO_LINENUMBER
           description: ""
